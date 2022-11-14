@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+New branch  'main'  set up to track remote branch  'main'  from  'origin' .
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
