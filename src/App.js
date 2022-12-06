@@ -1,5 +1,8 @@
 import React from "react";
+// This is a functional component
 import Expenses from "./components/Expenses/Expenses";
+import NewExpense from "./components/NewExpenses/NewExpense";
+
 
 function App() {
 
@@ -30,7 +33,7 @@ function App() {
   return (
     // This is a JSX code
     <div>
-      <h2>Let's get started!</h2>
+      <NewExpense />
       <Expenses items={expenses} />
     </div>
 
